@@ -108,6 +108,7 @@ app.get('*',(req,res)=>{
 
 app.listen(3000, ()=>{
     console.log("This app is running on port 3000s")
+    console.log("test")
 })
 
 
